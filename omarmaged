@@ -1,0 +1,2 @@
+git clone https://github.com/udacity/course-git-blog-project 
+git log --oneline | grep 8aa6668
